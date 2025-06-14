@@ -1,0 +1,17 @@
+.artist-name {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.wiki-button {
+    padding: 6px 12px;
+    border: 1px outset;
+    border-radius: 3px;
+    color: white;
+    background-color: red;
+    text-decoration: none;
+}
+
+.wiki-button:hover {
+    background-color: rgb(227, 3, 3);
+}
